@@ -18,8 +18,8 @@ The following practicals contain UI designs, wireframes and prototypes created u
 | 02 | Online Learning Platform | [View Practical](https://www.figma.com/design/MuhcQj8EdVpbIM5DpEMRrH/LearnEasy-%E2%80%94-College-UI-UX-Practical?node-id=0-1) |
 | 03 | Fitness App | [View Practical](https://www.figma.com/design/T9fSxTM8iKifF1GSPy64Mi/3---fitness-App?node-id=0-1) |
 | 04 | Product Packaging | [View Practical](https://www.figma.com/design/WJSrtqcfLSY3D7WQJ4sYCW/4.-Product-Packaging?node-id=0-1) |
-| 05 | Practical 5 | Add Figma Link |
-| 06 | Practical 6 | Add Figma Link |
+| 05 | Recepie Finder App | [View Practical]((https://www.figma.com/design/COGBc67s3Rr0cAPoLUjrFM/5.-Recipe-Finder-App?node-id=0-1&t=6JQQAKeUa17cu6AF-1))  |
+| 06 | Usability Testing Simulation | [View Practical](https://www.figma.com/design/MhsKn8nyUhYsMBbhtJWVSC/6.-Usability-Testing-Simulation?node-id=0-1&t=6JQQAKeUa17cu6AF-1) |
 
 
 
